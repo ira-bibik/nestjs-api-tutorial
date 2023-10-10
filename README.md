@@ -24,6 +24,7 @@
 
 ## Description
 
+[Tutorial](https://www.youtube.com/watch?v=GHTA143_b-s&t=1856s&ab_channel=freeCodeCamp.org) that I used to create these project
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Installation
